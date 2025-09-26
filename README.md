@@ -1,1 +1,5 @@
-# codextl.github.io
+# Oliver's Personal Site
+
+Simmering for so long, the pot has finally overflown! Welcome, dear traveler, to the repository containing the foundations of me as a sentient individual! I have long yearned to create such a site, but my distaste in the frontend development landscape (and some procrastination, though the prideful part of me would like to heavily blame the former) has inhibited anything to come out of such yearnings. But, as I gain more years under my belt, I have realized that the human mind is terribly insufficient at remembering, and it would be a pity for me to forget the joys (and struggles) of my present tinkerings in the far, far future. Compelled by this reasoning (and a sense of guilt for hold off the yearning for so long), I have finally decided to satisfy this yearning and make what has long been a thought concrete. What you see now is the maturing fruit of this endeavor.
+
+Due to a curiousity with the library known as Clay, along with a small fragment of desire yearning to be different, I have decided to build my entire website with Clay + C, compiled to WebAssembly. At of now, I am in the beginning of this endeavor, so whether I will love or hate this decision, my current self wish my future self the bestest-est-est of luck (three times for the charm), and let I venture on in the path of learning and discovery!
